@@ -6,6 +6,15 @@
 	margin-top: 50px;
 }
 
-#buttons {
-	align-content: center;
+#buttons button { 
+  background:#4da6ff; 
+  border:none; 
+  color:#fff; 
+  cursor:pointer; 
+  padding:5px; 
+  width:90px; 
+  margin:10px auto;
+  font-size:14px;
+  height : 50px;
+  border-radius : 50px;
 }
